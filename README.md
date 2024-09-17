@@ -27,7 +27,7 @@ This project involves the development of a website for an NGO, aimed at automati
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Jeevan-004/NGO-website01.git]
+   git clone https://github.com/Jeevan-004/NGO-website01.git
    cd ngo-management-website
    ```
 
